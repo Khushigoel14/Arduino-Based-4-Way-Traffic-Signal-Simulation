@@ -36,9 +36,9 @@ The Arduino-based system manages the traffic lights for a 4-way intersection usi
 4. The process repeats for **Lanes 3** and **4** in a similar manner, creating a full traffic cycle.
 5. The system continuously loops, simulating an ongoing traffic flow.
 
-![Working 2](./screenshots/Working2.png)
+![Working 2](Extras/Working2.png)
 
-![Working 3](./screenshots/Working3.png)
+![Working 3](Extras/Working3.png)
 
 ---
 
@@ -55,7 +55,7 @@ The Arduino-based system manages the traffic lights for a 4-way intersection usi
 - A total of 12 LEDs are used, with 3 LEDs per lane (red, yellow, and green).
 - Each LED is connected to the Arduino through a 220-ohm resistor to prevent excess current flow, ensuring safe operation.
 
-![Block Diagram](./screenshots/Block.png)
+![Block Diagram](Extras/Block.png)
 
 ---
 
@@ -72,13 +72,13 @@ The Arduino-based system manages the traffic lights for a 4-way intersection usi
 - A functioning 4-way traffic signal simulation demonstrating proper red, yellow, and green light sequences for all four lanes.
 - A practical understanding of how microcontrollers execute control tasks using timing and I/O management, providing foundational knowledge for more advanced traffic control systems.
 
-![Expected Outcome](./screenshots/Outcome.png)
+![Expected Outcome](Extras/Outcome.png)
 
 ---
 
 ## 👩‍💻 **Author**
 
-- **Khushi Goel** - [GitHub Profile](https://github.com/khushigoel)
+- **Khushi Goel** - [GitHub Profile](https://github.com/Khushigoel14)
 
 ---
 
